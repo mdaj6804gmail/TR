@@ -542,11 +542,8 @@ var bc=["All Mubin"];
 var abc=function (z,x){
   console.log(x,z);
 
-};
-foods.forEach(abc);
-console.log("<=============>")
-//arry function useing ==>>
-var ac=(x,y)=>{
-  console.log(y,x)
-};
-foods.forEach(ac);
+}
+foods.forEach(abc)
+var ac=()=>{
+  con
+}

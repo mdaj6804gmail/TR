@@ -545,7 +545,7 @@ var abc=function (z,x){
 };
 foods.forEach(abc);
 console.log("<=============>")
-//arry function useing ==>>
+//arry fu
 var ac=(x,y)=>{
   console.log(y,x)
 };
