@@ -1,0 +1,14 @@
+{
+  "workbench.editor.labelFormat": "default",
+  "editor.formatOnSaveMode": "file",
+  "editor.formatOnType": false,
+  "editor.formatOnSave": false,
+  "editor.formatOnPaste": false,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "eslint.format.enable": true,
+  "workbench.editor.enablePreviewFromQuickOpen": true,
+  "workbench.editor.enablePreviewFromCodeNavigation": true,
+  "editor.suggest.preview": true,
+  "editor.rename.enablePreview": true,
+  "workbench.editor.enablePreview": false
+}

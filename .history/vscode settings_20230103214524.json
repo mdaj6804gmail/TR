@@ -1,0 +1,30 @@
+{
+    "workbench.colorCustomizations": {
+   "activityBar.background": "#f387f373",
+   "activityBar.inactiveForeground": "#54f7b3",
+   "activityBarItem.profilesHoverForeground": "#39fd08",
+   "icon.foreground":"#00ffc8",
+   "contrastActiveBorder":"#6aeeac",
+  
+  "contrastBorder":"#3bf30d",
+  "widget.shadow":"#b598eb",
+  "window.activeBorder":"#f30808",
+  "toolbar.hoverBackground":"#2b0606",
+  "button.foreground":"#e9e3e3",
+  "tab.activeBackground":"#302e2e",
+  "tab.hoverBackground":"#af8bdd69",
+  "tab.hoverForeground":"#ffffff",
+  "tab.border":"#eedede"
+  
+  },
+  "workbench.sideBar.location": "right",
+  "editor.accessibilitySupport": "on",
+  "tabnine.experimentalAutoImports": true,
+  "editor.fontSize": 20,
+  "editor.rename.enablePreview": false,
+  "workbench.editor.enablePreview": false
+  
+   
+  }
+  
+  
